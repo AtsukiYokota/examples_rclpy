@@ -1,4 +1,4 @@
-# example_rclpy
+# ros2_examples
 
 ### Reference
 - [ROS2 examples](https://github.com/ros2/examples/tree/master/rclpy)
